@@ -1,6 +1,8 @@
 # gulp-browserify-babel
 App template for  gulp, browserify, babel and uglify - with sourcemaps
 
+
+```html
 var gulp = require("gulp");
 var babelify = require('babelify');
 var browserify = require('browserify');
