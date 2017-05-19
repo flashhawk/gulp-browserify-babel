@@ -1,4 +1,4 @@
-class  Animal
+export default class  Animal
 {
     constructor(name)
     {
