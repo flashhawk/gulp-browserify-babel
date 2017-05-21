@@ -11,4 +11,3 @@ export default class  Animal
         console.log("Hello,my name is "+this.name);
     }
 }
-module.exports=Animal;
